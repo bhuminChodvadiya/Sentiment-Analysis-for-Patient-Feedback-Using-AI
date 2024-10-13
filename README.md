@@ -72,7 +72,7 @@ Three models are trained and evaluated:
 - **Sentiment Distribution**: Shows how sentiments are distributed in the dataset using both bar charts and pie charts.
 
 <p align="center">
-<img src="path/to/accuracy_chart.png" width="500">
+<img src="images/model_accuracy_comparison.png" width="500">
 <br>
 <i>Comparison of Model Accuracies</i>
 </p>
