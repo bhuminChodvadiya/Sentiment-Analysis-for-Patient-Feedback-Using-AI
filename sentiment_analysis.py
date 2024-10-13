@@ -20,7 +20,7 @@ def preprocess_text(text):
     tokens = [token.lemma_.lower() for token in doc if not token.is_stop and not token.is_punct]
     return ' '.join(tokens)
 
-# Load dataset from a CSV file (ensure the correct file path)
+# Load dataset from a CSV file 
 data = pd.read_csv(r'A:\project\sentiment_data.csv')
 
 # Apply the text preprocessing function to the 'Feedback' column
@@ -115,11 +115,11 @@ plt.axis('equal')  # Equal aspect ratio ensures that the pie chart is circular
 plt.savefig('sentiment_pie_chart.png')
 plt.show()
 
-# ---- Example: Predicting Sentiment for New Feedback Entries ---- #
+# ---- Predicting Sentiment for New Feedback Entries ---- #
 new_feedback = [
     "The medication was effective, but I had some minor side effects.",
     "I absolutely love this medication.",
-    "The side effects are unbearable. I feel worse than before.",
+    "I am feeling better than before.",
     "It is worse and bad."
 ]
 
