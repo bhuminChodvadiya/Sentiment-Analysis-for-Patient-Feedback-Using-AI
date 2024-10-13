@@ -4,7 +4,7 @@
 This project applies **Natural Language Processing (NLP)** techniques and machine learning models to analyze customer feedback and predict sentiment (positive, neutral, or negative). The project uses various classifiers, handles class imbalances, and visualizes the results to help improve business understanding of customer sentiment.
 
 ## 🚀 **Project Overview**
-In this project, we build a sentiment analysis model that:
+In this project, I build a sentiment analysis model that:
 - **Preprocesses** raw text data (tokenization, lemmatization, stopword removal) using **SpaCy**.
 - Converts text data into **TF-IDF features** (unigram + bigram).
 - Uses **SMOTE** to address class imbalance and ensure robust model training.
