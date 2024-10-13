@@ -1,4 +1,4 @@
-# Sentiment-Analysis-for-Patient-Feedback-Using-AI
+
 # **Sentiment Analysis on Customer Feedback**
 
 This project applies **Natural Language Processing (NLP)** techniques and machine learning models to analyze customer feedback and predict sentiment (positive, neutral, or negative). The project uses various classifiers, handles class imbalances, and visualizes the results to help improve business understanding of customer sentiment.
