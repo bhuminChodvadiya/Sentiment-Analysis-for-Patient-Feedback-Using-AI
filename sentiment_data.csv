@@ -1,0 +1,101 @@
+﻿Name,Email,Age,Gender,Duration of Use,Condition,Feedback,Rating,Side Effects,Additional Comments,Sentiment
+Alice,alice@example.com,34,Female,3 months,Migraine,The treatment has been helpful but not completely effective.,4,Slight dizziness,None,Negative
+Grace,grace@example.com,41,Female,5 months,Cholesterol,"The medication is working great, with minimal side effects.",5,Slight nausea,Highly recommend it,Negative
+Clara,clara@example.com,45,Female,1 year,Diabetes,The medication has regulated my blood sugar effectively.,5,None,It's been life-changing!,Positive
+David,david@example.com,52,Male,6 months,Arthritis,"Pain relief is inconsistent, but overall, it's helpful.",3,Occasional headaches,Could be improved,Neutral
+Emma,emma@example.com,28,Female,4 months,Anxiety,The medication makes me feel calmer and more focused.,5,Dry mouth,Very happy with the results,Positive
+Frank,frank@example.com,37,Male,2 months,Hypertension,"It's somewhat effective, but I expected better results.",3,Occasional fatigue,Hoping for improvement,Neutral
+Grace,grace@example.com,41,Female,5 months,Cholesterol,"The medication is working great, with minimal side effects.",5,Slight nausea,Highly recommend it,Negative
+Henry,henry@example.com,60,Male,8 weeks,Heart Disease,"Treatment is manageable, but no significant improvements.",2,Occasional chest pain,Looking for alternative options,Negative
+Isabel,isabel@example.com,26,Female,3 weeks,Insomnia,My sleep patterns have improved since starting this.,4,Drowsiness during the day,None,Positive
+Jack,jack@example.com,49,Male,1 year,Chronic Pain,The treatment has reduced my pain but hasn't eliminated it.,3,Minor swelling,Satisfied but looking for more relief,Negative
+Karen,karen@example.com,53,Female,7 months,Osteoporosis,"I see some improvement, but it takes time to notice.",3,None,Hope to see more changes soon,Neutral
+Luke,luke@example.com,38,Male,4 weeks,Back Pain,Treatment helps but isn't effective all the time.,3,Slight drowsiness,Needs stronger dosage,Neutral
+Mia,mia@example.com,22,Female,6 months,Skin Condition,The medication cleared my skin effectively.,5,Dryness,Very pleased with the outcome,Positive
+Noah,noah@example.com,31,Male,5 weeks,Depression,"It's been helpful, but it takes a while to see the effects.",4,Nausea,Happy with the progress,Positive
+Olivia,olivia@example.com,35,Female,10 months,Weight Loss,I've seen significant results with minimal effort.,5,Occasional headaches,Highly recommend this treatment,Positive
+Peter,peter@example.com,47,Male,3 months,High Blood Pressure,It lowered my blood pressure but caused dizziness initially.,4,Dizziness,Adapted to it now,Positive
+Quinn,quinn@example.com,40,Female,2 years,Rheumatoid Arthritis,The treatment is moderately effective but not perfect.,3,None,Expecting better results,Neutral
+Ruby,ruby@example.com,55,Female,4 months,Menopause,The medication helped with symptoms but caused weight gain.,3,Weight gain,Could be improved,Neutral
+Sam,sam@example.com,33,Male,7 months,Hair Loss,The treatment showed visible results after 5 months.,4,Itching,Happy with the outcome,Positive
+Tina,tina@example.com,44,Female,8 months,Digestive Issues,Improved digestion but experienced occasional heartburn.,4,Heartburn,"Effective, overall satisfied",Positive
+Aaron,aaron@example.com,45,Male,6 months,Hypertension,Medication helped regulate my blood pressure effectively.,5,None,Very satisfied,Positive
+Bella,bella@example.com,34,Female,3 weeks,Insomnia,"Struggled with side effects, but overall, my sleep has improved.",4,Drowsiness,Tolerable side effects,Positive
+Carl,carl@example.com,29,Male,2 months,Anxiety,Didn't notice much change. Feeling the same.,2,None,Expected better results,Negative
+Dana,dana@example.com,50,Female,5 months,Osteoporosis,Noticeable improvement in bone density.,4,Mild nausea,Happy with the results,Positive
+Ethan,ethan@example.com,38,Male,4 months,Asthma,"Effective in reducing symptoms, though not fully resolved.",4,Slight dizziness,Better than previous medication,Positive
+Fiona,fiona@example.com,42,Female,3 months,Menopause,"Reduced hot flashes significantly, but mood swings persist.",3,None,Hoping for further improvements,Neutral
+George,george@example.com,56,Male,1 year,Arthritis,Pain relief has been consistent; I’m very pleased.,5,Minor swelling,None,Positive
+Helen,helen@example.com,32,Female,2 months,Depression,"Gradual improvement in mood, still have some low days.",4,Dry mouth,Works well overall,Positive
+Ian,ian@example.com,28,Male,6 months,Hair Loss,"No visible difference yet, a bit disappointed.",2,Itching,Hoping to see results soon,Negative
+Jane,jane@example.com,49,Female,3 months,Diabetes,Blood sugar levels are more stable with this medication.,5,Occasional fatigue,Excellent product,Positive
+Kevin,kevin@example.com,54,Male,8 months,High Cholesterol,"Reduced cholesterol, but the effects are slow.",3,Mild dizziness,Could work faster,Neutral
+Lisa,lisa@example.com,35,Female,7 months,Weight Loss,Lost 5 kg; happy with the progress so far.,4,None,Great product,Positive
+Mark,mark@example.com,40,Male,4 months,Heart Disease,Improved heart function; doctor is satisfied with progress.,5,None,Highly recommend,Positive
+Nancy,nancy@example.com,60,Female,10 months,Rheumatoid Arthritis,Somewhat helpful but pain still persists occasionally.,3,None,Looking for more relief,Neutral
+Oscar,oscar@example.com,31,Male,3 months,Back Pain,Didn’t relieve pain as much as I hoped.,2,None,Wouldn’t recommend,Negative
+Paula,paula@example.com,27,Female,5 weeks,Digestive Issues,Noticeable improvement in digestion.,4,Occasional heartburn,Happy with the treatment,Positive
+Quincy,quincy@example.com,36,Male,6 weeks,Migraine,"Fewer migraines, but still have them occasionally.",3,None,It’s okay,Neutral
+Rachel,rachel@example.com,48,Female,2 years,Skin Condition,Skin has cleared up significantly since starting treatment.,5,Dryness,Very happy,Positive
+Steve,steve@example.com,44,Male,1 year,Chronic Pain,"Pain is more manageable, but still present.",3,Drowsiness,Looking for stronger relief,Negative
+Tina,tina@example.com,53,Female,7 months,Cholesterol,"Effective in lowering cholesterol, but it’s slow-acting.",3,None,Wish it worked faster,Neutral
+Uma,uma@example.com,41,Female,8 weeks,Anxiety,"Feeling less anxious, but still have some bad days.",4,Dry mouth,Working gradually,Positive
+Victor,victor@example.com,39,Male,9 months,Asthma,"My breathing has improved, but I still use my inhaler often.",4,None,Effective in managing symptoms,Positive
+Wendy,wendy@example.com,30,Female,2 months,Insomnia,Noticed a slight improvement in my sleep patterns.,3,Drowsiness,Could be more effective,Neutral
+Xavier,xavier@example.com,26,Male,1 month,Hair Loss,"No visible changes yet, but hopeful for results.",3,None,Too early to tell,Neutral
+Yvonne,yvonne@example.com,47,Female,10 months,Osteoporosis,"Bone density seems to have improved, but slowly.",4,None,Satisfied with the progress,Positive
+Zack,zack@example.com,50,Male,1 year,Hypertension,Blood pressure is under control with this medication.,5,None,Highly effective,Positive
+Hans,hans@example.com,52,Male,8 months,High Blood Pressure,The medication has helped stabilize my blood pressure efficiently.,5,None,Extremely satisfied,Positive
+Greta,greta@example.com,37,Female,3 months,Depression,"Slight improvement, but I was expecting a more noticeable change.",3,Mild dizziness,Hopeful for better results,Neutral
+Klaus,klaus@example.com,45,Male,5 weeks,Arthritis,"Pain is somewhat reduced, but it's not completely gone.",3,Occasional headaches,Could be more effective,Neutral
+Lotte,lotte@example.com,29,Female,6 months,Skin Condition,"My skin has cleared up nicely, very happy with the treatment.",5,Slight dryness,Great improvement,Positive
+Martin,martin@example.com,33,Male,4 weeks,Back Pain,Didn’t notice any improvement; pain still persists.,2,None,Would not recommend,Negative
+Anna,anna@example.com,39,Female,2 months,Menopause,"Hot flashes have reduced, but night sweats are still present.",3,None,Average experience,Neutral
+Dieter,dieter@example.com,50,Male,7 months,Diabetes,"Blood sugar levels are well managed, very effective.",5,Occasional tiredness,Works as expected,Positive
+Sabine,sabine@example.com,44,Female,1 year,Anxiety,Feeling much calmer and more balanced.,5,Dry mouth,Highly recommend,Positive
+Jens,jens@example.com,47,Male,3 months,High Cholesterol,"Cholesterol levels have decreased, but side effects are annoying.",3,Stomach discomfort,Not fully satisfied,Neutral
+Inge,inge@example.com,55,Female,4 months,Osteoporosis,"My bones feel stronger; overall, a positive experience.",4,None,Happy with the progress,Positive
+Bernd,bernd@example.com,60,Male,2 months,Hair Loss,"No noticeable change yet, but I'll keep using it.",2,Itchy scalp,Disappointed so far,Negative
+Petra,petra@example.com,42,Female,6 weeks,Insomnia,"Sleeping a bit better, but still wake up at night occasionally.",3,Drowsiness,It’s helping slowly,Neutral
+Wolfgang,wolfgang@example.com,54,Male,5 months,Chronic Pain,"Pain has decreased, but still not completely gone.",4,None,Satisfied but expected more,Positive
+Erika,erika@example.com,30,Female,4 months,Weight Loss,"Lost a few kilos, but not as much as I hoped for.",3,None,Works but not as fast,Neutral
+Fritz,fritz@example.com,48,Male,9 months,Hypertension,"Excellent results, blood pressure is well controlled now.",5,None,Very effective,Positive
+Karin,karin@example.com,39,Female,3 months,Digestive Issues,"Digestion has improved significantly, feeling much better.",5,None,Highly recommend,Positive
+Uwe,uwe@example.com,36,Male,7 weeks,Migraine,"Fewer migraines, but they are still quite severe when they occur.",3,Slight dizziness,Hoping for more improvement,Neutral
+Nadine,nadine@example.com,34,Female,2 months,Acne,"My acne has reduced, but not entirely gone.",4,Dry skin,Quite satisfied,Positive
+Manfred,manfred@example.com,57,Male,6 months,Rheumatism,"Joint pain has reduced, but still present on cold days.",4,None,Would recommend,Positive
+Claudia,claudia@example.com,50,Female,1 year,Asthma,"My breathing is easier, and I rarely need my inhaler now.",5,None,Very satisfied,Positive
+Thomas,thomas@example.com,43,Male,4 weeks,Allergies,"Helped with allergy symptoms, but not completely effective.",3,Mild drowsiness,"Works, but could be stronger",Neutral
+Simone,simone@example.com,41,Female,3 months,Heart Condition,My heart health has improved noticeably; very pleased.,5,None,Life-changing,Positive
+Dirk,dirk@example.com,46,Male,8 months,Psoriasis,"Flare-ups have reduced, but some irritation remains.",4,Itching,Effective but not perfect,Negative
+Claudia,claudia2@example.com,29,Female,5 weeks,Anxiety,"Slight improvement, but I still have anxious moments.",3,None,Not as effective as expected,Negative
+Horst,horst@example.com,38,Male,3 months,Depression,"I feel much better, and my mood has improved a lot.",5,None,Very thankful,Positive
+Frank,frank@example.com,37,Male,2 months,Hypertension,"It's somewhat effective, but I expected better results.",3,Occasional fatigue,Hoping for improvement,Negative
+Henry,henry@example.com,60,Male,8 weeks,Heart Disease,"Treatment is manageable, but no significant improvements.",2,Occasional chest pain,Looking for alternative options,Negative
+Grace,grace@example.com,41,Female,5 months,Cholesterol,"The medication is working great, with minimal side effects.",5,Slight nausea,Highly recommend it,Negative
+Jack,jack@example.com,49,Male,1 year,Chronic Pain,The treatment has reduced my pain but hasn't eliminated it.,3,Minor swelling,Satisfied but looking for more relief,Negative
+Quinn,quinn@example.com,40,Female,2 years,Rheumatoid Arthritis,The treatment is moderately effective but not perfect.,3,None,Expecting better results,Negative
+Ruby,ruby@example.com,55,Female,4 months,Menopause,The medication helped with symptoms but caused weight gain.,3,Weight gain,Could be improved,Negative
+Peter,peter@example.com,47,Male,3 months,High Blood Pressure,It lowered my blood pressure but caused dizziness initially.,4,Dizziness,Adapted to it now,Negative
+David,david@example.com,52,Male,6 months,Arthritis,"Pain relief is inconsistent, but overall, it's helpful.",3,Occasional headaches,Could be improved,Negative
+Karen,karen@example.com,53,Female,7 months,Osteoporosis,"I see some improvement, but it takes time to notice.",3,None,Hope to see more changes soon,Negative
+Luke,luke@example.com,38,Male,4 weeks,Back Pain,Treatment helps but isn't effective all the time.,3,Slight drowsiness,Needs stronger dosage,Negative
+Bob,bob@example.com,29,Male,2 weeks,Asthma,"Medication works well, but I experienced coughing initially.",3,Cough,None,Neutral
+Isabel,isabel@example.com,26,Female,3 weeks,Insomnia,My sleep patterns have improved since starting this.,4,Drowsiness during the day,None,Positive
+Emma,emma@example.com,28,Female,4 months,Anxiety,The medication makes me feel calmer and more focused.,5,Dry mouth,Very happy with the results,Positive
+Noah,noah@example.com,31,Male,5 weeks,Depression,"It's been helpful, but it takes a while to see the effects.",4,Nausea,Happy with the progress,Positive
+Olivia,olivia@example.com,35,Female,10 months,Weight Loss,I've seen significant results with minimal effort.,5,Occasional headaches,Highly recommend this treatment,Positive
+Peter,peter@example.com,47,Male,3 months,High Blood Pressure,It lowered my blood pressure but caused dizziness initially.,4,Dizziness,Adapted to it now,Positive
+Ruby,ruby@example.com,55,Female,4 months,Menopause,The medication helped with symptoms but caused weight gain.,3,Weight gain,Could be improved,Neutral
+Sam,sam@example.com,33,Male,7 months,Hair Loss,The treatment showed visible results after 5 months.,4,Itching,Happy with the outcome,Positive
+Tina,tina@example.com,44,Female,8 months,Digestive Issues,Improved digestion but experienced occasional heartburn.,4,Heartburn,"Effective, overall satisfied",Positive
+Aaron,aaron@example.com,45,Male,6 months,Hypertension,Medication helped regulate my blood pressure effectively.,5,None,Very satisfied,Positive
+Bella,bella@example.com,34,Female,3 weeks,Insomnia,"Struggled with side effects, but overall, my sleep has improved.",4,Drowsiness,Tolerable side effects,Positive
+Carl,carl@example.com,29,Male,2 months,Anxiety,Didn't notice much change. Feeling the same.,2,None,Expected better results,Negative
+Dana,dana@example.com,50,Female,5 months,Osteoporosis,Noticeable improvement in bone density.,4,Mild nausea,Happy with the results,Positive
+Ethan,ethan@example.com,38,Male,4 months,Asthma,"Effective in reducing symptoms, though not fully resolved.",4,Slight dizziness,Better than previous medication,Positive
+Fiona,fiona@example.com,42,Female,3 months,Menopause,"Reduced hot flashes significantly, but mood swings persist.",3,None,Hoping for further improvements,Neutral
+George,george@example.com,56,Male,1 year,Arthritis,Pain relief has been consistent; I’m very pleased.,5,Minor swelling,None,Positive
+Helen,helen@example.com,32,Female,2 months,Depression,"Gradual improvement in mood, still have some low days.",4,Dry mouth,Works well overall,Positive
+Ian,ian@example.com,28,Male,6 months,Hair Loss,"No visible difference yet, a bit disappointed.",2,Itching,Hoping to see results soon,Negative
+Luke,luke@example.com,38,Male,4 weeks,Back Pain,Treatment helps but isn't effective all the time.,3,Slight drowsiness,Needs stronger dosage,Negative
