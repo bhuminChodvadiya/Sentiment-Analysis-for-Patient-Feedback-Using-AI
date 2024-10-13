@@ -78,7 +78,7 @@ Three models are trained and evaluated:
 </p>
 
 <p align="center">
-<img src="path/to/sentiment_pie_chart.png" width="500">
+<img src="images/sentiment_pie_chart.png" width="500">
 <br>
 <i>Sentiment Distribution Pie Chart</i>
 </p>
